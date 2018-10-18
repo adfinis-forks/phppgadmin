@@ -445,10 +445,6 @@
 				'title' => $lang['strprocess'],
 				'field' => field('pid'),
 			),
-            'blocked' => array(
-                'title' => $lang['strblocked'],
-                'field' => field('waiting'),
-            ),
 			'query' => array(
 				'title' => $lang['strsql'],
 				'field' => field('query'),

@@ -1,2 +1,5 @@
+*~
+.htaccess
+conf/config.inc.php
 selenium/tests/config.inc.php
 tests/selenium/config.test.php
